@@ -1,4 +1,11 @@
-# neural_labs
+# NN from scratch
+
+lab1 - MLP
+lab2 - optimization algorithms (Momentum, Nestrov, AdaGrad, AdaDelta, RMSprop, Adam)
+lab3 - l1,l2 regularization, dropout
+lab4 - K-means and radial bases NN
+lab5 - AlexNet, LeNet, ResNet, ResNeXt with torch
+lab6 - lstm forecast with torch
 
 install libs (python 3.7.10)
 
